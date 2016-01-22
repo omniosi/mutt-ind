@@ -1,5 +1,5 @@
 FT.manifest({
-	"filename": "320x50_MLB_16_National_Banners_01f.html",
+	"filename": "MLBTS16_TheShow16_LearnMore_320x50_National_v1.html",
 	"width":320,
 	"height":50,
 	"hideBrowsers":["ie8","opera"],
