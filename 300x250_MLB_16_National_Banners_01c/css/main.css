@@ -1,0 +1,24 @@
+#container{
+	box-sizing: border-box;
+	width: 300px;
+	height: 250px;
+	position: relative;
+	background: #132C50;
+	border: 1px solid #fff;
+}
+#container #player,
+#container #mlb,
+#container #ps,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #h2{ top: 19px; left: 28px; }
+#container #h1{ top: 49px; left: 27px; }
+#container #cta{ top: 131px; left: 86px; }
+#container #logo{ top: 177px; left: 48px; }
+#container #ps{ top: 229px; left: 15px; }
+#container #mlb{ top: 225px; left: 201px; }
+#container #player{ top: 224px; left: 271px; }
