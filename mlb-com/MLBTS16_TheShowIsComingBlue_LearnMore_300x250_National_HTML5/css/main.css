@@ -1,0 +1,24 @@
+#container{
+	box-sizing: border-box;
+	width: 300px;
+	height: 250px;
+	position: relative;
+	background: #132C50 url('../img/bg_MLB_16_Digital_Banner_MLBST_300x250_ShowisComing_Blue_00a.jpg') no-repeat;
+	/*border: 1px solid #fff;*/
+}
+#container #pa,
+#container #com,
+#container #ps,
+#container #product,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #h1{ left: 27px; top: 20px; }
+#container #h2{ left: 39px; top: 94px; }
+#container #cta{ left: 74px; top: 141px; }
+#container #product{ left: 48px; top: 179px; }
+#container #ps{ left: 8px; top: 233px; }
+#container #com{ left: 204px; top: 229px; }
+#container #pa{ left: 277px; top: 228px; }
