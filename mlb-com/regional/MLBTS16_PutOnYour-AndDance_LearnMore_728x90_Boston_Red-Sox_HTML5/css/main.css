@@ -1,0 +1,17 @@
+#container{
+	box-sizing: border-box;
+	width: 728px;
+	height: 90px;
+	position: relative;
+	background: #bd3039 url('../img/bg_MLB_16_DigitalBanners_RedSox_728x90_00a.jpg') no-repeat;
+}
+#container #team,
+#container #logo,
+#container #cta,
+#container #h1{
+	position: absolute;
+}
+#container #team	{ left: 8px; top: 27px; }
+#container #h1			{ left: 48px; top: 38px; }
+#container #cta		{ left: 573px; top: 49px; }
+#container #logo		{ left: 559px; top: 17px; }
