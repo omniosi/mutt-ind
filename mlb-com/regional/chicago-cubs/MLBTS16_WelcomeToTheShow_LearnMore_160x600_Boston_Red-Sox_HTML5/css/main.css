@@ -1,0 +1,27 @@
+#container{
+	box-sizing: border-box;
+	width: 160px;
+	height: 600px;
+	position: relative;
+	background: #bd3039 url('../img/bg_MLB_16_DigitalBanners_RedSox_160x600_00a.jpg') no-repeat;
+}
+#container #ps,
+#container #pa,
+#container #com,
+#container #row,
+#container #team,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #ps			{ left: 13px; top: 552px; }
+#container #pa			{ left: 55px; top: 575px; }
+#container #com		{ left: 79px; top: 576px; }
+#container #row		{ left: 8px; top: 392px; }
+#container #team	{ left: 11px; top: 216px; }
+#container #h1			{ left: 9px; top: 15px; }
+#container #h2			{ left: 12px; top: 55px; }
+#container #cta		{ left: 9px; top: 411px; }
+#container #logo		{ left: 6px; top: 449px; }
