@@ -1,0 +1,19 @@
+#container{
+	box-sizing: border-box;
+	width: 970px;
+	height: 66px;
+	position: relative;
+	background: #0e3386 url('../img/bg_MLB_16_DigitalBanners_Cubs_970x66_00a.jpg') no-repeat;
+}
+#container #team,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #team	{ left: 10px; top: 11px; }
+#container #h1			{ left: 75px; top: 19px; }
+#container #h2			{ left: 330px; top: 18px; }
+#container #cta		{ left: 823px; top: 20px; }
+#container #logo		{ left: 641px; top: 19px; }
