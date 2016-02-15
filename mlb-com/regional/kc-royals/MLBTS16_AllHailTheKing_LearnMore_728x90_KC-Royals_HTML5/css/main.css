@@ -1,0 +1,19 @@
+#container{
+	box-sizing: border-box;
+	width: 728px;
+	height: 90px;
+	position: relative;
+	background: #002d62 url('../img/bg_MLB_16_DigitalBanner_Royals_728x90_00a.jpg') no-repeat;
+}
+#container #team,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #team	{ left: 7px; top: 27px; }
+#container #h1			{ left: 59px; top: 34px; }
+#container #h2			{ left: 292px; top: 33px; }
+#container #cta		{ left: 569px; top: 49px; }
+#container #logo		{ left: 553px; top: 16px; }
