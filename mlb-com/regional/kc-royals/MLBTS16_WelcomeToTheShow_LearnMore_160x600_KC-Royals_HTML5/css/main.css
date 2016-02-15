@@ -3,7 +3,7 @@
 	width: 160px;
 	height: 600px;
 	position: relative;
-	background: #002d62 url('../img/bg_MLB_16_DigitalBanners_Astros_160x600_00a.jpg') no-repeat;
+	background: #00439a url('../img/bg_MLB_16_DigitalBanner_Royals_160x600_00a.jpg') no-repeat;
 }
 #container #ps,
 #container #pa,
@@ -20,7 +20,7 @@
 #container #pa			{ left: 55px; top: 575px; }
 #container #com		{ left: 79px; top: 576px; }
 #container #row		{ left: 8px; top: 392px; }
-#container #team	{ left: 9px; top: 215px; }
+#container #team	{ left: 22px; top: 198px; }
 #container #h1			{ left: 9px; top: 13px; }
 #container #h2			{ left: 12px; top: 55px; }
 #container #cta		{ left: 9px; top: 411px; }
