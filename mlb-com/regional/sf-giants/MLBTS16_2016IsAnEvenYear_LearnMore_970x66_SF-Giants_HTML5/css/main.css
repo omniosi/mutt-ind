@@ -1,0 +1,17 @@
+#container{
+	box-sizing: border-box;
+	width: 970px;
+	height: 66px;
+	position: relative;
+	background: #fd5a1e url('../img/bg_MLB_16_DigitalBanner_Giants_970x66_00a.jpg') no-repeat;
+}
+#container #team,
+#container #logo,
+#container #cta,
+#container #h1{
+	position: absolute;
+}
+#container #team	{ left: 9px; top: 7px; }
+#container #h1			{ left: 58px; top: 17px; }
+#container #cta		{ left: 828px; top: 20px; }
+#container #logo		{ left: 646px; top: 19px; }
