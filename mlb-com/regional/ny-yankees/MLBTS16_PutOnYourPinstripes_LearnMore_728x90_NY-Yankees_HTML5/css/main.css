@@ -1,0 +1,19 @@
+#container{
+	box-sizing: border-box;
+	width: 728px;
+	height: 90px;
+	position: relative;
+	background: #1c2841 url('../img/bg_MLB_16_DigitalBanner_Yankees_728x90_00a.jpg') no-repeat;
+}
+#container #team,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #team	{ left: 10px; top: 22px; }
+#container #h1			{ left: 64px; top: 35px; }
+#container #h2			{ left: 292px; top: 33px; }
+#container #cta		{ left: 567px; top: 50px; }
+#container #logo		{ left: 543px; top: 15px; }
