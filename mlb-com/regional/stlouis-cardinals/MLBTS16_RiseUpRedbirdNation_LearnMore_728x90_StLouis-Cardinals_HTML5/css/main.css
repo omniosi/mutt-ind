@@ -1,0 +1,17 @@
+#container{
+	box-sizing: border-box;
+	width: 728px;
+	height: 90px;
+	position: relative;
+	background: #c41e3a url('../img/bg_MLB_16_DigitalBanners_Cardinals_728x90_00a.jpg') no-repeat;
+}
+#container #team,
+#container #logo,
+#container #cta,
+#container #h1{
+	position: absolute;
+}
+#container #team	{ left: 6px; top: 21px; }
+#container #h1			{ left: 61px; top: 35px; }
+#container #cta		{ left: 576px; top: 49px; }
+#container #logo		{ left: 562px; top: 16px; }
