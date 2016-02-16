@@ -1,0 +1,17 @@
+#container{
+	box-sizing: border-box;
+	width: 970px;
+	height: 66px;
+	position: relative;
+	background: #134a8e url('../img/bg_MLB_16_DigitalBanner_BlueJay_970x66_00a.jpg') no-repeat;
+}
+#container #team,
+#container #logo,
+#container #cta,
+#container #h1{
+	position: absolute;
+}
+#container #team	{ left: 10px; top: 10px; }
+#container #h1			{ left: 72px; top: 21px; }
+#container #cta		{ left: 824px; top: 20px; }
+#container #logo		{ left: 640px; top: 19px; }
