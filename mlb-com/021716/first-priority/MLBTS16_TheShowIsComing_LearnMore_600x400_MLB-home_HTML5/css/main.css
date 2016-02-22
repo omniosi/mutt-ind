@@ -1,0 +1,27 @@
+#container{
+	box-sizing: border-box;
+	width: 600px;
+	height: 400px;
+	position: relative;
+	background: #132c50 url('../img/bg_MLB_16_DigitalBanners_600x400_showiscoming_00b.jpg') no-repeat;
+}
+#container #esrb,
+#container #hit,
+#container #pa,
+#container #com,
+#container #ps,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #h1{ left: 227px; top: 24px; }
+#container #h2{ left: 246px; top: 125px; }
+#container #cta{ left: 297px; top: 280px; }
+#container #logo{ left: 275px; top: 182px; }
+#container #ps{ left: 302px; top: 254px; }
+#container #com{ left: 389px; top: 366px; }
+#container #pa{ left: 499px; top: 353px; }
+#container #hit{ left: 0px; top: 19px; }
+#container #esrb{ left: 562px; top: 352px; }
