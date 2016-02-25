@@ -1,0 +1,25 @@
+#container{
+	box-sizing: border-box;
+	width: 300px;
+	height: 250px;
+	position: relative;
+	background: #132c50 url('../img/bg_MLB_16_Digital_Banner_MLBhome_300x250_ShowisComing_Blue_00a.jpg') no-repeat;
+}
+#container #team,
+#container #pa,
+#container #com,
+#container #ps,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #h1{ left: 30px; top: 18px; }
+#container #h2{ left: 27px; top: 46px; }
+#container #cta{ left: 74px; top: 141px; }
+#container #logo{ left: 48px; top: 179px; }
+#container #ps{ left: 8px; top: 233px; }
+#container #com{ left: 204px; top: 229px; }
+#container #pa{ left: 277px; top: 228px; }
+#container #team{ left: 182px; top: 121px; }

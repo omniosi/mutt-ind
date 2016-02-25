@@ -1,0 +1,27 @@
+#container{
+	box-sizing: border-box;
+	width: 650px;
+	height: 450px;
+	position: relative;
+	background: #132c50 url('../img/bg_MLB_16_Digital_Banner_Amnet_650x450_blue_00a.jpg') no-repeat;
+}
+#container #esrb,
+#container #hit,
+#container #pa,
+#container #com,
+#container #ps,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #h1{ left: 249px; top: 33px; }
+#container #h2{ left: 252px; top: 81px; }
+#container #cta{ left: 334px; top: 335px; }
+#container #logo{ left: 309px; top: 230px; }
+#container #ps{ left: 338px; top: 306px; }
+#container #com{ left: 455px; top: 422px; }
+#container #pa{ left: 547px; top: 406px; }
+#container #hit{ left: 0px; top: 30px; }
+#container #esrb{ left: 607px; top: 407px; }
