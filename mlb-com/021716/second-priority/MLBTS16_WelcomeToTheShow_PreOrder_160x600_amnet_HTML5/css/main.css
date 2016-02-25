@@ -1,0 +1,25 @@
+#container{
+	box-sizing: border-box;
+	width: 160px;
+	height: 600px;
+	position: relative;
+	background: #132c50 url('../img/bg_MLB_16_Digital_Banner_MLBhome_160x600_blue_00a.jpg') no-repeat;
+}
+#container #hit,
+#container #pa,
+#container #com,
+#container #ps,
+#container #logo,
+#container #cta,
+#container #h2,
+#container #h1{
+	position: absolute;
+}
+#container #h1{ left: 9px; top: 12px; }
+#container #h2{ left: 12px; top: 49px; }
+#container #cta{ left: 9px; top: 207px; }
+#container #logo{ left: 10px; top: 315px; }
+#container #ps{ left: 11px; top: 244px; }
+#container #com{ left: 59px; top: 266px; }
+#container #pa{ left: 36px; top: 265px; }
+#container #hit{ left: 0px; top: 365px; }
